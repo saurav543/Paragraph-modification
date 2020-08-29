@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+}
+
+div.about {
+    background-image: url("../image/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: rgb(153, 238, 17);
+    height: 400px;
+}
+
+div.subabout {
+    padding-left: 40%;
+    padding-top: 10%;
+    font-size: 50px;
+    color: white;
+}
+
+div.row {
+    margin-right: 0px !important;
+    background-color: lightgrey;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.img1 {
+    height: 400px;
+    width: 400px;
+    margin-left: 100px;
+}
+
+.paragraph {
+    text-align: justify;
+    margin-left: 100px;
+}
+
+.title {
+    font-size: 50px;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.text {
+    text-align: center;
+}
+
+.ig {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 110px;
+}
+
+.pad {
+    padding: 65px;
+}
+
+
+/* footer {
+    background-color: silver;
+} */
+
+.foot {
+    text-align: center!important;
+}
+
+footer {
+    background-color: silver!important;
+    text-align: center;
+}
+
+hr {
+    color: black;
+    height: 10px;
+    width: 1000px;
+    text-align: center;
+}

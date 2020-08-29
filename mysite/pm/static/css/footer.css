@@ -1,0 +1,16 @@
+.foot {
+    text-align: center!important;
+    margin-left: 100px;
+}
+
+footer {
+    background-color: silver!important;
+    text-align: center;
+}
+
+hr {
+    color: black;
+    height: 10px;
+    width: 1000px;
+    text-align: center;
+}
